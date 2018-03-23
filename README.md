@@ -2,7 +2,7 @@
 
 
 This is an exercise to familiarize with JGraphT library .
-for further information-"https://github.com/jgrapht/jgrapht/wiki/GSOC-2018-Warmup"
+for further information-[here] (https://github.com/jgrapht/jgrapht/wiki/GSOC-2018-Warmup)
 
 COMPILE AND RUN
 
