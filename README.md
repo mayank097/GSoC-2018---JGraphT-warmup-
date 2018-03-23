@@ -6,10 +6,10 @@ for further information-[here](https://github.com/jgrapht/jgrapht/wiki/GSOC-2018
 
 COMPILE AND RUN
 
-Compile with: make compile
+Compile with: 'make compile'
 
-Run with: make run ARGS="<input_file> <person1> <person2>"
+Run with: 'make run ARGS="<input_file> person1 person2"'
 
-All together: make ARGS="<input_file> <person1> <person2>"
+All together: 'make ARGS="<input_file> person1 person2"'
 
 Example: make AGRS="./input/GOT.dot Jon Daenerys"
